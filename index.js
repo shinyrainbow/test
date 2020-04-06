@@ -5,3 +5,4 @@ m4
 m5
 clear
 m6
+clear 2 
